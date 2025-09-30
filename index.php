@@ -615,7 +615,7 @@
                 to you as soon as possible.
               </p>
 
-              <form action="" method="POST" class="php-email-form">
+              <form action="forms/contact.php" method="POST" class="php-email-form">
                 <div class="row gy-4">
 
                   <div class="col-md-6">
